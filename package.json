@@ -1,6 +1,3 @@
-{
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "pg": "^8.14.1"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:66084a2c6966f19d8583f66273ec84563556a7d084316148fdf0eab3f594fa49
+size 73
